@@ -1,7 +1,7 @@
 {
   "+251902652464": {
     "username": "Daniel",
-    "devices": [iphone ]
+    "devices": ["iphone" ]
   },
   "+251911223344": {
     "username": "Sarah",
@@ -13,4 +13,5 @@
   }
 
 }
+
 
