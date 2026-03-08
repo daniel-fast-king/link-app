@@ -1,0 +1,14 @@
+{
+  "+251912345678": {
+    "username": "Daniel",
+    "devices": []
+  },
+  "+251911223344": {
+    "username": "Sarah",
+    "devices": ["iphone 12"]
+  },
+  "+251907654321": {
+    "username": "Mike",
+    "devices": ["samsung galaxy j7"]
+  }
+}
